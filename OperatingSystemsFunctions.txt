@@ -1,0 +1,3 @@
+Memory management
+File management
+Device management
