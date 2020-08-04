@@ -1,3 +1,6 @@
 Memory management
 File management
 Device management
+Security
+Error detection
+Networking
